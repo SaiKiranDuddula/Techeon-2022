@@ -78,7 +78,7 @@ section{
 }
 
 .header{
-    position: fixed;
+/*     position: fixed; */
     top:0; left: 0; right: 0;
     z-index: 10000;
     background: #333;
@@ -126,7 +126,7 @@ section{
     color:#fff;
     font-size: 4.5rem;
     text-transform: uppercase;
-    margin-top: 55px;
+    margin-top: 5px;
 }
 
 .home .content h3 span{
